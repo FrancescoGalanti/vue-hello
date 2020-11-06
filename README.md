@@ -1,1 +1,1 @@
-vue-hello
+js-pwdgen-wannabe
